@@ -1,0 +1,54 @@
+/* purgecss start ignore */
+
+.stx-button.stx-layout--filled {
+  color: #111;
+  background-color: #f4f4f4;
+  border: 0;
+  font-size: 1rem;
+  border-style: solid;
+}
+
+.stx-grid {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+}
+
+.stx-grid > .stx-grid-inner {
+  margin: 0 -15px;
+}
+
+.stx-grid > .stx-grid-inner > .stx-grid-item {
+  padding: 0 15px;
+  margin: 0 0 30px;
+}
+
+.stx-grid .stx-grid-item {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+  min-height: 1px;
+  float: left;
+}
+
+.stx-columns-small-1 .stx-grid-item,
+.stx-columns-medium-1 .stx-grid-item,
+.stx-columns-large-1 .stx-grid-item {
+  width: 100%;
+}
+
+.stx-columns-small-2 .stx-grid-item,
+.stx-columns-medium-2 .stx-grid-item,
+.stx-columns-large-2 .stx-grid-item {
+  width: 50%;
+}
+
+.stx-columns-small-3 .stx-grid-item,
+.stx-columns-medium-3 .stx-grid-item,
+.stx-columns-large-3 .stx-grid-item {
+  width: 33.33333%;
+}
+
+/* purgecss end ignore */

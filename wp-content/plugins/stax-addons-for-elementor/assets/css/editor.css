@@ -1,0 +1,88 @@
+
+@font-face {
+    font-family: 'stx-elementor-icons';
+    src:  url('../fonts/stx-elementor-icons.eot?eqaf4u');
+    src:  url('../fonts/stx-elementor-icons.eot?eqaf4u#iefix') format('embedded-opentype'),
+    url('../fonts/stx-elementor-icons.ttf?eqaf4u') format('truetype'),
+    url('../fonts/stx-elementor-icons.woff?eqaf4u') format('woff'),
+    url('../fonts/stx-elementor-icons.svg?eqaf4u#stx-elementor-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="stx-icon-"], [class*=" stx-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'stx-elementor-icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.stx-icon-info-box:before {
+    content: "\e919";
+}
+.stx-icon-dropdown:before {
+    content: "\e900";
+}
+.stx-icon-info-button:before {
+    content: "\e901";
+}
+.stx-icon-button:before {
+    content: "\e902";
+}
+.stx-icon-accordion-toggle:before {
+    content: "\e903";
+}
+.stx-icon-blockquote:before {
+    content: "\e904";
+}
+.stx-icon-breadcrumb:before {
+    content: "\e905";
+}
+.stx-icon-counter:before {
+    content: "\e906";
+}
+.stx-icon-divider:before {
+    content: "\e907";
+}
+.stx-icon-headings:before {
+    content: "\e908";
+}
+.stx-icon-icon-with-text:before {
+    content: "\e909";
+}
+.stx-icon-interval-image:before {
+    content: "\e913";
+}
+.stx-icon-read-more:before {
+    content: "\e914";
+}
+.stx-icon-scroll-top:before {
+    content: "\e915";
+}
+.stx-icon-section-title:before {
+    content: "\e916";
+}
+.stx-icon-slider:before {
+    content: "\e917";
+}
+.stx-icon-testimonials_1:before {
+    content: "\e918";
+}
+.stx-icon-testimonials-slider:before {
+    content: "\e910";
+}
+.stx-icon-testimonials:before {
+    content: "\e911";
+}
+.stx-icon-typeout-text:before {
+    content: "\e912";
+}

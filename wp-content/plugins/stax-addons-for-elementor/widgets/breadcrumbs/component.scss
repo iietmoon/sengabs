@@ -1,0 +1,27 @@
+.stx-breadcrumb-wrapper {
+  .stx-breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    .stx-breadcrumb-item {
+      display: inline-flex;
+
+      .stx-breadcrumb-link {
+        line-height: 1;
+      }
+    }
+
+    .stx-separator {
+      display: inline-flex;
+      padding-left: 5px;
+      padding-right: 5px;
+      i {
+        font-size: 14px;
+      }
+    }
+  }
+}

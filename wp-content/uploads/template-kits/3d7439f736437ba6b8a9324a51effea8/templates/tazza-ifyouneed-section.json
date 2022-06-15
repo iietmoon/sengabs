@@ -1,0 +1,343 @@
+{
+    "version": "0.4",
+    "title": "Tazza-IfYouNeed Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-cta",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "2689d4ba",
+            "settings": {
+                "height": "min-height",
+                "structure": "30",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/contact-bg.jpg",
+                    "id": "241"
+                },
+                "background_position": "bottom center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#0B2933",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.93",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": "260",
+                    "sizes": []
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "450",
+                    "sizes": []
+                },
+                "background_attachment": "fixed",
+                "layout": "full_width"
+            },
+            "elements": [
+                {
+                    "id": "78e5c9ca",
+                    "settings": {
+                        "_column_size": "33",
+                        "_inline_size": "25"
+                    },
+                    "elements": [
+                        {
+                            "id": "24d42aa",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/leaf-2.png",
+                                    "id": "245"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "357"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "",
+                                    "unit": "px"
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_y_end": {
+                                    "size": "-200",
+                                    "unit": "px"
+                                },
+                                "_animation": "rotateInDownLeft",
+                                "_animation_delay": "700",
+                                "image_size": "full",
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": "200",
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "10",
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "-9",
+                                    "unit": "px"
+                                },
+                                "_offset_y_end_tablet": {
+                                    "size": "-178",
+                                    "unit": "px"
+                                },
+                                "_offset_y_end_mobile": {
+                                    "size": "-407.183",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "7000ddaa",
+                    "settings": {
+                        "_column_size": "33",
+                        "_inline_size": "50"
+                    },
+                    "elements": [
+                        {
+                            "id": "350faba1",
+                            "settings": {
+                                "title": "If You Need Natural And Fresh Organic Fruits!",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Barlow Condensed",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": "72",
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": "1.1",
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": "46",
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": "34",
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2d82b4f8",
+                            "settings": {
+                                "buttons": [
+                                    {
+                                        "text": "Contact Now",
+                                        "_id": "10c0553",
+                                        "selected_icon": {
+                                            "value": "fas fa-angle-double-right",
+                                            "library": "fa-solid"
+                                        },
+                                        "icon_img": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "icon_text": "1",
+                                        "tooltip_content": "I am a tooltip for a button",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "single_button_padding": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "single_button_padding_tablet": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "single_button_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "single_button_border_width": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "single_button_border_width_tablet": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "single_button_border_width_mobile": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        },
+                                        "single_button_border_radius": {
+                                            "unit": "px",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": "1"
+                                        }
+                                    }
+                                ],
+                                "icon_position": "after",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_animation": "rotateInUpLeft",
+                                "_animation_delay": "700",
+                                "button_align": "center",
+                                "button_text_color_hover": "#36970E"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pp-buttons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "2f6a8143",
+                    "settings": {
+                        "_column_size": "33",
+                        "_inline_size": "24.332"
+                    },
+                    "elements": [
+                        {
+                            "id": "5a76c080",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/leaf-3-new.png",
+                                    "id": "979"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "328"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "147",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "-100",
+                                    "unit": "%"
+                                },
+                                "hide_mobile": "hidden-phone",
+                                "_element_width_tablet": "initial",
+                                "_element_custom_width_tablet": {
+                                    "unit": "px",
+                                    "size": "200"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "-93.817",
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "35.188",
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": "-180",
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "-16",
+                                    "unit": "px"
+                                },
+                                "image_size": "full",
+                                "_animation": "rotateInDownRight",
+                                "_animation_delay": "700",
+                                "_offset_orientation_h": "end"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ]
+}

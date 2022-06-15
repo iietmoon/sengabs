@@ -1,0 +1,1259 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "TazZA - Organic Food Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Home",
+            "screenshot": "screenshots\/tazza-home.jpg",
+            "source": "templates\/tazza-home.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-About",
+            "screenshot": "screenshots\/tazza-about.jpg",
+            "source": "templates\/tazza-about.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Product",
+            "screenshot": "screenshots\/tazza-product.jpg",
+            "source": "templates\/tazza-product.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-product\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Blog",
+            "screenshot": "screenshots\/tazza-blog.jpg",
+            "source": "templates\/tazza-blog.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Single Post",
+            "screenshot": "screenshots\/tazza-single-post.jpg",
+            "source": "templates\/tazza-single-post.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Contact Us",
+            "screenshot": "screenshots\/tazza-contact-us.jpg",
+            "source": "templates\/tazza-contact-us.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-404 Error",
+            "screenshot": "screenshots\/tazza-404-error.jpg",
+            "source": "templates\/tazza-404-error.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-404-error\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Best Seller Section",
+            "screenshot": "screenshots\/tazza-best-seller-section.jpg",
+            "source": "templates\/tazza-best-seller-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-best-seller-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Testimonials Section",
+            "screenshot": "screenshots\/tazza-testimonials-section.jpg",
+            "source": "templates\/tazza-testimonials-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-testimonials-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Hero Section",
+            "screenshot": "screenshots\/tazza-hero-section.jpg",
+            "source": "templates\/tazza-hero-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/elementor-563\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Hero Section 2",
+            "screenshot": "screenshots\/tazza-hero-section-2.jpg",
+            "source": "templates\/tazza-hero-section-2.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-hero-section-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Header Section",
+            "screenshot": "screenshots\/tazza-header-section.jpg",
+            "source": "templates\/tazza-header-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-header-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-FooterTop Section",
+            "screenshot": "screenshots\/tazza-footertop-section.jpg",
+            "source": "templates\/tazza-footertop-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-footertop-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Footer Section",
+            "screenshot": "screenshots\/tazza-footer-section.jpg",
+            "source": "templates\/tazza-footer-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-footer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-IfYouNeed Section",
+            "screenshot": "screenshots\/tazza-ifyouneed-section.jpg",
+            "source": "templates\/tazza-ifyouneed-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-ifyouneed-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-LatestNews Section",
+            "screenshot": "screenshots\/tazza-latestnews-section.jpg",
+            "source": "templates\/tazza-latestnews-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-latestnews-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-404 Section",
+            "screenshot": "screenshots\/tazza-404-section.jpg",
+            "source": "templates\/tazza-404-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-404-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Discount Section",
+            "screenshot": "screenshots\/tazza-discount-section.jpg",
+            "source": "templates\/tazza-discount-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-discount-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Client Section",
+            "screenshot": "screenshots\/tazza-client-section.jpg",
+            "source": "templates\/tazza-client-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-client-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-About Section",
+            "screenshot": "screenshots\/tazza-about-section.jpg",
+            "source": "templates\/tazza-about-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-about-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Service Section",
+            "screenshot": "screenshots\/tazza-service-section.jpg",
+            "source": "templates\/tazza-service-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-service-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tazza-Contact Section",
+            "screenshot": "screenshots\/tazza-contact-section.jpg",
+            "source": "templates\/tazza-contact-section.json",
+            "preview_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/template-kit\/tazza-contact-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.9",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.1.2",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "JetWidgets For Elementor",
+            "version": "1.0.7",
+            "file": "jetwidgets-for-elementor\/jetwidgets-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Elementor Addons, Widgets and Enhancements - Stax",
+            "version": "1.4.0",
+            "file": "stax-addons-for-elementor\/loader.php",
+            "author": "StaxWP"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "1.5.12",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.2.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        }
+    ],
+    "images": [
+        {
+            "filename": "tazzahero-latest.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/tazzahero-latest-600x156.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-blog.json",
+                    "name": "Tazza-Blog"
+                },
+                {
+                    "source": "templates\/tazza-single-post.json",
+                    "name": "Tazza-Single Post"
+                },
+                {
+                    "source": "templates\/tazza-contact-us.json",
+                    "name": "Tazza-Contact Us"
+                },
+                {
+                    "source": "templates\/tazza-404-error.json",
+                    "name": "Tazza-404 Error"
+                },
+                {
+                    "source": "templates\/tazza-hero-section-2.json",
+                    "name": "Tazza-Hero Section 2"
+                }
+            ],
+            "filesize": 343009,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/flat-lay-bag-groceries_5268411.htm"
+        },
+        {
+            "filename": "eco.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/eco.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-hero-section.json",
+                    "name": "Tazza-Hero Section"
+                }
+            ],
+            "filesize": 39693,
+            "dimensions": [
+                309,
+                309
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "letus-leaf-latest.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/letus-leaf-latest.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-service-section.json",
+                    "name": "Tazza-Service Section"
+                }
+            ],
+            "filesize": 13314,
+            "dimensions": [
+                173,
+                154
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-bg.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/about-bg-600x273.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-about-section.json",
+                    "name": "Tazza-About Section"
+                }
+            ],
+            "filesize": 25467,
+            "dimensions": [
+                1920,
+                872
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-image-1-latest.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/about-image-1-latest-600x671.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-about-section.json",
+                    "name": "Tazza-About Section"
+                }
+            ],
+            "filesize": 244335,
+            "dimensions": [
+                771,
+                862
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-a-hat-holding-fresh-radishes-J6UADLB"
+        },
+        {
+            "filename": "product-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 30006,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 48351,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-3.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 32182,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-4.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 39073,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-5.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 30552,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-6.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 30568,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-7.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 42160,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "product-8.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-best-seller-section.json",
+                    "name": "Tazza-Best Seller Section"
+                }
+            ],
+            "filesize": 36374,
+            "dimensions": [
+                225,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "discount-bg.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/discount-bg-600x328.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-discount-section.json",
+                    "name": "Tazza-Discount Section"
+                }
+            ],
+            "filesize": 121388,
+            "dimensions": [
+                1920,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "discount-fruits-latest.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/discount-fruits-latest-600x602.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-discount-section.json",
+                    "name": "Tazza-Discount Section"
+                }
+            ],
+            "filesize": 168424,
+            "dimensions": [
+                778,
+                780
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "partner1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/partner1.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-testimonials-section.json",
+                    "name": "Tazza-Testimonials Section"
+                },
+                {
+                    "source": "templates\/tazza-client-section.json",
+                    "name": "Tazza-Client Section"
+                }
+            ],
+            "filesize": 13586,
+            "dimensions": [
+                125,
+                103
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "partner2.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/partner2.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-client-section.json",
+                    "name": "Tazza-Client Section"
+                }
+            ],
+            "filesize": 7733,
+            "dimensions": [
+                144,
+                101
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "partner3.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/partner3.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-client-section.json",
+                    "name": "Tazza-Client Section"
+                }
+            ],
+            "filesize": 9779,
+            "dimensions": [
+                128,
+                101
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "partner4.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/partner4.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-client-section.json",
+                    "name": "Tazza-Client Section"
+                }
+            ],
+            "filesize": 10428,
+            "dimensions": [
+                142,
+                102
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "partner5.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/partner5.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-testimonials-section.json",
+                    "name": "Tazza-Testimonials Section"
+                },
+                {
+                    "source": "templates\/tazza-client-section.json",
+                    "name": "Tazza-Client Section"
+                }
+            ],
+            "filesize": 9053,
+            "dimensions": [
+                126,
+                102
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "testimonial-image-1-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/testimonial-image-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-testimonials-section.json",
+                    "name": "Tazza-Testimonials Section"
+                }
+            ],
+            "filesize": 368610,
+            "dimensions": [
+                429,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-agriculture-woman-worker-working-har-N3BXYLV"
+        },
+        {
+            "filename": "testimonial-image-2-1.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/testimonial-image-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-testimonials-section.json",
+                    "name": "Tazza-Testimonials Section"
+                }
+            ],
+            "filesize": 359927,
+            "dimensions": [
+                429,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-a-hat-holding-fresh-radishes-J6UADLB"
+        },
+        {
+            "filename": "contact-bg.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/contact-bg-600x141.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-ifyouneed-section.json",
+                    "name": "Tazza-IfYouNeed Section"
+                }
+            ],
+            "filesize": 144423,
+            "dimensions": [
+                1920,
+                450
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "leaf-2.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/leaf-2.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-ifyouneed-section.json",
+                    "name": "Tazza-IfYouNeed Section"
+                }
+            ],
+            "filesize": 159971,
+            "dimensions": [
+                411,
+                448
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "leaf-3-new.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/leaf-3-new.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-ifyouneed-section.json",
+                    "name": "Tazza-IfYouNeed Section"
+                }
+            ],
+            "filesize": 159642,
+            "dimensions": [
+                411,
+                448
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "product_footer_bg.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/product_footer_bg-600x233.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-home.json",
+                    "name": "Tazza-Home"
+                },
+                {
+                    "source": "templates\/tazza-about.json",
+                    "name": "Tazza-About"
+                },
+                {
+                    "source": "templates\/tazza-product.json",
+                    "name": "Tazza-Product"
+                },
+                {
+                    "source": "templates\/tazza-blog.json",
+                    "name": "Tazza-Blog"
+                },
+                {
+                    "source": "templates\/tazza-single-post.json",
+                    "name": "Tazza-Single Post"
+                },
+                {
+                    "source": "templates\/tazza-contact-us.json",
+                    "name": "Tazza-Contact Us"
+                },
+                {
+                    "source": "templates\/tazza-404-error.json",
+                    "name": "Tazza-404 Error"
+                },
+                {
+                    "source": "templates\/tazza-footertop-section.json",
+                    "name": "Tazza-FooterTop Section"
+                }
+            ],
+            "filesize": 53804,
+            "dimensions": [
+                1920,
+                744
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "details_bg1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/details_bg1-600x154.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-single-post.json",
+                    "name": "Tazza-Single Post"
+                }
+            ],
+            "filesize": 2412,
+            "dimensions": [
+                800,
+                205
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blogdetails1.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/blogdetails1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-single-post.json",
+                    "name": "Tazza-Single Post"
+                }
+            ],
+            "filesize": 34637,
+            "dimensions": [
+                245,
+                245
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/flat-lay-bag-groceries_5268411.htm"
+        },
+        {
+            "filename": "blog-details-2.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/blog-details-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-single-post.json",
+                    "name": "Tazza-Single Post"
+                }
+            ],
+            "filesize": 27033,
+            "dimensions": [
+                245,
+                245
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-agriculture-woman-worker-working-har-N3BXYLV"
+        },
+        {
+            "filename": "blogdetails3.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/blogdetails3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-single-post.json",
+                    "name": "Tazza-Single Post"
+                }
+            ],
+            "filesize": 56609,
+            "dimensions": [
+                245,
+                245
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Error_404.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/08\/Error_404-600x593.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-404-error.json",
+                    "name": "Tazza-404 Error"
+                },
+                {
+                    "source": "templates\/tazza-404-section.json",
+                    "name": "Tazza-404 Section"
+                }
+            ],
+            "filesize": 47060,
+            "dimensions": [
+                682,
+                674
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/stories.freepik.com\/illustration\/404-error-with-a-cute-animal\/pana"
+        },
+        {
+            "filename": "hero-image.jpg",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/hero-image-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tazza-hero-section.json",
+                    "name": "Tazza-Hero Section"
+                }
+            ],
+            "filesize": 347427,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "hero-leaf.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/hero-leaf.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-hero-section.json",
+                    "name": "Tazza-Hero Section"
+                }
+            ],
+            "filesize": 159877,
+            "dimensions": [
+                411,
+                448
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-1-latest.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/logo-1-latest.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-header-section.json",
+                    "name": "Tazza-Header Section"
+                }
+            ],
+            "filesize": 1702,
+            "dimensions": [
+                105,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "menu-bg-left.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/menu-bg-left.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-header-section.json",
+                    "name": "Tazza-Header Section"
+                }
+            ],
+            "filesize": 2899,
+            "dimensions": [
+                72,
+                79
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "menu-bg-right.png",
+            "thumbnail_url": "http:\/\/templatekits-demo.envalab.com\/tazza\/wp-content\/uploads\/sites\/9\/2020\/09\/menu-bg-right.png",
+            "templates": [
+                {
+                    "source": "templates\/tazza-header-section.json",
+                    "name": "Tazza-Header Section"
+                }
+            ],
+            "filesize": 2893,
+            "dimensions": [
+                70,
+                79
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
