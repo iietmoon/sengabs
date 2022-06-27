@@ -1,0 +1,1021 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Greenco \u2013 Landscaping & Gardening Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Appointment",
+            "screenshot": "screenshots\/metform-appointment.jpg",
+            "source": "templates\/metform-appointment.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/metform-appointment\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/single-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/greenco\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.1.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.5",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "gardener-with-hedge-trimmer-e1635892441479.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-with-hedge-trimmer-800x548.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 291119,
+            "dimensions": [
+                1920,
+                1316
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NDKCXTH"
+        },
+        {
+            "filename": "professional-gardener-at-work-XU82AHW.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/professional-gardener-at-work-XU82AHW-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 318946,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XU82AHW"
+        },
+        {
+            "filename": "gardener-buying-new-plantsP4VGX5F.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/gardener-buying-new-plantsP4VGX5F-800x537.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 293904,
+            "dimensions": [
+                1920,
+                1289
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4VGX5F"
+        },
+        {
+            "filename": "garden-decorative-trees-trimming-by-professional-gardener-e1635864777836.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/garden-decorative-trees-trimming-by-professional-gardener-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 305477,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A2EVLPN"
+        },
+        {
+            "filename": "gardener-and-his-flowers-e1636043266831.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-and-his-flowers-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 230072,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PB2HFLQ"
+        },
+        {
+            "filename": "gardener-topiary-job-e1636044762602.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-topiary-job-800x528.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 277707,
+            "dimensions": [
+                1200,
+                793
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HGF895Y"
+        },
+        {
+            "filename": "gardener-in-newly-build-backyard-garden-e1636044857896.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-in-newly-build-backyard-garden-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 275503,
+            "dimensions": [
+                1100,
+                732
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-REVQENM"
+        },
+        {
+            "filename": "garden-maintenance-performed-by-pro-gardener-e1635864820108.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/garden-maintenance-performed-by-pro-gardener-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 322191,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR995B6"
+        },
+        {
+            "filename": "men-watering-garden-plants-e1636044577981.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/men-watering-garden-plants-e1636044577981.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 286087,
+            "dimensions": [
+                1240,
+                827
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WBSELCU"
+        },
+        {
+            "filename": "gardener-finishing-garden-e1636044488488.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-finishing-garden-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 251996,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FM7Q7BJ"
+        },
+        {
+            "filename": "a-gardener-watering-plants-in-a-flowerbed-2RT8DWL.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/a-gardener-watering-plants-in-a-flowerbed-2RT8DWL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 284180,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2RT8DWL"
+        },
+        {
+            "filename": "happy-gardeners-with-plants-and-lawn-mower-e1636044353864.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/happy-gardeners-with-plants-and-lawn-mower-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 281968,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVEMXNP"
+        },
+        {
+            "filename": "gardening-background-with-garden-tolls-A9BGNJU.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/gardening-background-with-garden-tolls-A9BGNJU-800x552.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 326515,
+            "dimensions": [
+                1920,
+                1324
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A9BGNJU"
+        },
+        {
+            "filename": "gardener-pruning-and-shaping-bushes--e1636043380165.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-pruning-and-shaping-bushes--800x518.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 270035,
+            "dimensions": [
+                1440,
+                932
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3UP49X7"
+        },
+        {
+            "filename": "backyard-garden-e1636044880830.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/backyard-garden-800x497.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 289086,
+            "dimensions": [
+                1200,
+                746
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SJMLZ6K"
+        },
+        {
+            "filename": "lawn-moving-aerial-photo-Z8KDGJ9.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/lawn-moving-aerial-photo-Z8KDGJ9-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 326327,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z8KDGJ9"
+        },
+        {
+            "filename": "3SUMAU.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/3SUMAU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 56794,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3SUMAU"
+        },
+        {
+            "filename": "CASCKD8.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/CASCKD8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 52477,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CASCKD8"
+        },
+        {
+            "filename": "MKLVKTE.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/MKLVKTE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 59237,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MKLVKTE"
+        },
+        {
+            "filename": "gardeners-selecting-plants-in-a-greenhouse-P7XX699.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/gardeners-selecting-plants-in-a-greenhouse-P7XX699-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 305203,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7XX699"
+        },
+        {
+            "filename": "cheerful-young-man-standing-in-greenhouse-near-pla-P56ND5C.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/cheerful-young-man-standing-in-greenhouse-near-pla-P56ND5C-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 172598,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P56ND5C"
+        },
+        {
+            "filename": "mature-gardener-in-plantation-3BU56E8.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/mature-gardener-in-plantation-3BU56E8-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 144154,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3BU56E8"
+        },
+        {
+            "filename": "female-gardener-poses-in-shop-for-gardening-B8J7PM9.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/female-gardener-poses-in-shop-for-gardening-B8J7PM9-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 162386,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B8J7PM9"
+        },
+        {
+            "filename": "professional-caucasian-gardener-H5FDAME.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/professional-caucasian-gardener-H5FDAME-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 263172,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H5FDAME"
+        },
+        {
+            "filename": "pro-gardener-at-work-e1636043429454.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/pro-gardener-at-work-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 290870,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCVVLDT"
+        },
+        {
+            "filename": "gardener-posing-with-flower-pot-USFHPK4c.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/gardener-posing-with-flower-pot-USFHPK4c-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 239284,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-USFHPK4"
+        },
+        {
+            "filename": "senior-farmer-picking-ripe-peppers-in-the-vegetabl-ZHLFCR5.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/senior-farmer-picking-ripe-peppers-in-the-vegetabl-ZHLFCR5-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 191030,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZHLFCR5"
+        },
+        {
+            "filename": "young-gardener-outdoors-DW2B89T.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/young-gardener-outdoors-DW2B89T-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 175150,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DW2B89T"
+        },
+        {
+            "filename": "gardener-and-his-business-e1636043448304.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/10\/gardener-and-his-business-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 318741,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PA9FDXZ"
+        },
+        {
+            "filename": "logo-UDS48Q.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/logo-UDS48Q-800x278.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 53621,
+            "dimensions": [
+                1486,
+                517
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UDS48Q"
+        },
+        {
+            "filename": "green-lawn-on-ground-PT9KCVE.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/green-lawn-on-ground-PT9KCVE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 316612,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PT9KCVE"
+        },
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/greenco\/wp-content\/uploads\/sites\/16\/2021\/11\/logo-footer-800x278.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 52192,
+            "dimensions": [
+                1486,
+                517
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UDS48Q"
+        }
+    ]
+}
